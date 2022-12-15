@@ -28,8 +28,8 @@
 			<transform 00="-1" 01="0" 02="-0" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0" 21="0" 22="-1" 23="0" 30="-282.608124" 31="5.607833" 32="-96.608627" 33="1"/>
 		</mesh>
 		<!-- New Bench -->
-		<mesh id="mesh8" parent_id="" purchase_interactable_id="" seasonal_flags="0" file_name="meshes/workbench.mesh">
-			<transform 00="0.007204" 01="0" 02="0.999974" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.999974" 21="0" 22="0.007204" 23="0" 30="-195.078903" 31="5.607833" 32="-89.925056" 33="1"/>
+		<!--mesh id="mesh8" parent_id="" purchase_interactable_id="" seasonal_flags="0" file_name="meshes/workbench.mesh">
+			<transform 00="0.007204" 01="0" 02="0.999974" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.999974" 21="0" 22="0.007204" 23="0" 30="-195.078903" 31="5.607833" 32="-89.925056" 33="1"/> -->
 		</mesh>		
 		<mesh id="door_3" parent_id="" purchase_interactable_id="" seasonal_flags="0" file_name="meshes/door_control_tower.mesh">
 			<transform 00="-1" 01="0" 02="0" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0" 21="0" 22="-1" 23="0" 30="-224.443207" 31="4.824455" 32="99.540787" 33="1"/>
