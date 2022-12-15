@@ -421,25 +421,25 @@
 	</lights_tube>
 	<screens/>
 	<edit_areas>
-		<edit_area id="workbench_edit" grid_size="2">
+		<edit_area id="workbench_edit" grid_size="0">
 			<transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="304.764496" 31="19.041933" 32="-30.602093"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
-		<edit_area id="boat_edit" grid_size="2">
+		<edit_area id="boat_edit" grid_size="0">
 			<transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="-158.220245" 31="9.489544" 32="114.354561"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
-		<edit_area id="boat_2_edit" grid_size="2">
+		<edit_area id="boat_2_edit" grid_size="0">
 			<transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="-208.184174" 31="9.489544" 32="100.966766"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
 		<edit_area id="edit3" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="-0.967205" 02="-0.253996" 20="0.253996" 22="-0.967205" 30="-103.835686" 31="9.090283" 32="55.335152"/>
 			<size x="0.75" y="0.25" z="1.75"/>
 		</edit_area>
-		<edit_area id="hangar_edit" grid_size="4">
+		<edit_area id="hangar_edit" grid_size="0">
 			<transform 00="-0.965926" 02="-0.258819" 20="0.258819" 22="-0.965926" 30="-256.499664" 31="13.704041" 32="-408.530243"/>
-			<size x="36.5" y="10" z="35"/>
+			<size x="40.5" y="12" z="90"/>
 		</edit_area>
 		<edit_area id="edit5" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0.258819" 02="-0.965926" 20="0.965926" 22="0.258819" 30="-255.505493" 31="12.089499" 32="-379.430115"/>
