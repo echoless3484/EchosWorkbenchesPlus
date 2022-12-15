@@ -35,9 +35,9 @@
 	<lights_tube/>
 	<screens/>
 	<edit_areas>
-		<edit_area id="edit0" grid_size="2">
+		<edit_area id="edit0" grid_size="0">
 			<transform 00="-0" 02="-1" 20="1" 22="-0" 30="25.010742" 31="2.276947" 32="-40.939636"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
 		<edit_area id="edit1" grid_size="6" is_static="true">
 			<transform 00="-0" 02="-1" 20="1" 22="-0" 30="4.801025" 31="8.31308" 32="-14.007568"/>
