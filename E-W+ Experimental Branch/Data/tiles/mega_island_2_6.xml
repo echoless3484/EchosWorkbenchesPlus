@@ -261,9 +261,9 @@
 	<lights_tube/>
 	<screens/>
 	<edit_areas>
-		<edit_area id="hangar_edit" grid_size="4">
+		<edit_area id="hangar_edit" grid_size="0">
 			<transform 00="0.707107" 02="0.707107" 20="-0.707107" 22="0.707107" 30="105.697777" 31="17.57859" 32="-98.45195"/>
-			<size x="36.5" y="10" z="35"/>
+			<size x="40.5" y="12" z="90"/>
 		</edit_area>
 		<edit_area id="office_bed" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0.694406" 02="-0.719584" 20="0.719584" 22="0.694406" 30="118.794075" 31="15.920509" 32="-124.766281"/>
