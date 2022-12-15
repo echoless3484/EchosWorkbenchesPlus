@@ -124,17 +124,17 @@
 	</lights_tube>
 	<screens/>
 	<edit_areas>
-		<edit_area id="workbench_edit" grid_size="2">
+		<edit_area id="workbench_edit" grid_size="0">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="305.016479" 31="1.700371" 32="-208.334229"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
-		<edit_area id="workbench_b_edit" grid_size="2">
+		<edit_area id="workbench_b_edit" grid_size="0">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="198.112152" 31="1.700371" 32="-208.057175"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
-		<edit_area id="workbench_c_edit" grid_size="2">
+		<edit_area id="workbench_c_edit" grid_size="0">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="89.232758" 31="1.700371" 32="-208.474609"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
 		<edit_area id="edit3" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="-1" 22="-1" 30="-15.726058" 31="8.819031" 32="-236.299728"/>
