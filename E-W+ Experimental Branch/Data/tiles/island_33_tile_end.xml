@@ -227,9 +227,9 @@
 	</lights_tube>
 	<screens/>
 	<edit_areas>
-		<edit_area id="dock_edit" grid_size="2">
+		<edit_area id="dock_edit" grid_size="0">
 			<transform 00="0.669131" 02="0.743145" 20="-0.743145" 22="0.669131" 30="-122.365799" 31="2.431198" 32="-5.755886"/>
-			<size x="22.5" y="20.5" z="57.25"/>
+			<size x="22.5" y="30.5" z="90"/>
 		</edit_area>
 		<edit_area id="train_edit" grid_size="7">
 			<transform 00="0.65953" 02="0.751679" 20="-0.751679" 22="0.65953" 30="4.013518" 31="19.00631" 32="162.940567"/>
