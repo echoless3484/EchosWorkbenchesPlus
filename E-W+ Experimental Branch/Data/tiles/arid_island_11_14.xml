@@ -148,9 +148,9 @@
 	<lights_tube/>
 	<screens/>
 	<edit_areas>
-		<edit_area id="workbench_edit" grid_size="7">
+		<edit_area id="workbench_edit" grid_size="0">
 			<transform 00="0.5" 02="-0.866026" 20="0.866026" 22="0.5" 30="67.193115" 31="32.648499" 32="-78.30761"/>
-			<size x="5" y="6" z="25"/>
+			<size x="5" y="6" z="100"/>
 		</edit_area>
 		<edit_area id="edit1" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0.860853" 02="0.508853" 20="-0.508853" 22="0.860853" 30="59.726898" 31="30.07373" 32="-69.681633"/>
