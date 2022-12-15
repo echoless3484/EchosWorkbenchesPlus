@@ -1,2 +1,2 @@
 # Echo's Workbenches+
-Echo's Workbenches+ is one of the best and latest Workbench mods for Stormworks: Build &amp; Rescue, currently it edits 2 tiles adding tons of new stuff, updates will bring new tiles and fixes.
+Hey, are your Workbenches too small, are they too limiting for your limitless creations? Well good thing you found this repo, because this mod makes the Creative Island & Arctic Playerbase workbenches absolutely huge, along with adding a few new ones...
